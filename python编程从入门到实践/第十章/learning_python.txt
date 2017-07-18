@@ -1,0 +1,4 @@
+In Python you can processing data.
+In Python you can develop website.
+In Python you can make a game.
+In Python you can make data visualization.
